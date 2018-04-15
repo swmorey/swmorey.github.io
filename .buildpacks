@@ -1,2 +1,1 @@
-https://github.com/heroku/heroku-buildpack-nginx.git
-https://github.com/swmorey/dokku-buildpack-jekyll-foundation.git
+https://github.com/dokku/buildpack-nginx.git
